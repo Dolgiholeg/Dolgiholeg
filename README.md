@@ -17,6 +17,12 @@
 Разработкал программу на языке Python анализа и визуализации данных об акциях, используя библиотеки Pandas, Matplotlib, Bokeh, yfinance;
 
 Цель моей работы - повышение производительности любого производства путём внедрения программного обеспечения процессов. Моя миссия - исключать монотонный, рутинный и тяжёлый ручной труда, делая человека труда немного счастливее. В своей работе применяю такие soft skills как умение работать в команде, дисциплинированность, целеустремлён, готов обучаться новому и работать на интересы компании - работодателя, обладаю высоким уровнем эмоционального интеллекта и выполнение задач в точно поставленный срок.
+## Выполненные работы
+Веб-приложение на фреймворке Django: https://github.com/Dolgiholeg/Djangoproekt/tree/master
+Веб-приложение на фреймворке FastAPI: https://github.com/Dolgiholeg/FastAPIproekt/tree/master
+Веб-приложение на фреймворке Flask: https://github.com/Dolgiholeg/Flaskproekt/tree/master
+Программа на языке Python для анализа прайс-листов продукции в формате csv по запросу пользователя: https://github.com/Dolgiholeg/Price_List_Analyzer/tree/master
+Программа на языке Python анализа и визуализации данных об акциях, используя библиотеки Pandas, Matplotlib, Bokeh, yfinance:https: //github.com/Dolgiholeg/Stock-data_analysis_and_visualization/tree/master
 
 
 
