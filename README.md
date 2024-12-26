@@ -26,7 +26,7 @@
 
 Программа на языке Python для анализа прайс-листов продукции в формате csv по запросу пользователя: https://github.com/Dolgiholeg/Price_List_Analyzer/tree/master
 
-Программа на языке Python анализа и визуализации данных об акциях, используя библиотеки Pandas, Matplotlib, Bokeh, yfinance:https: //github.com/Dolgiholeg/Stock-data_analysis_and_visualization/tree/master
+Программа на языке Python анализа и визуализации данных об акциях, используя библиотеки Pandas, Matplotlib, Bokeh, yfinance: https: //github.com/Dolgiholeg/Stock-data_analysis_and_visualization/tree/master
 
 
 
