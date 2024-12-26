@@ -1,5 +1,10 @@
 # Всем привет! Меня зовут Олег👋
 # Я дипломированный Python - разработчик
+##КОНТАКТНЫЕ ДАННЫЕ
+###ТЕЛЕФОН:+7-927-021-30-71
+###Telegram:https://t.me/DolgikhOleg
+###ЭЛЕКТРОННАЯ ПОЧТА:Dolgiholeg@rambler.ru
+
 
 <!--
 **Dolgiholeg/Dolgiholeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
