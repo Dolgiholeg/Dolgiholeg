@@ -1,12 +1,12 @@
 # Всем привет! Меня зовут Олег👋
 # Я дипломированный Python - разработчик
-##КОНТАКТНЫЕ ДАННЫЕ
+## КОНТАКТНЫЕ ДАННЫЕ
 
-###ТЕЛЕФОН:+7-927-021-30-71
+### ТЕЛЕФОН:+7-927-021-30-71
 
-###Telegram:https://t.me/DolgikhOleg
+### Telegram:https://t.me/DolgikhOleg
 
-###ЭЛЕКТРОННАЯ ПОЧТА:Dolgiholeg@rambler.ru
+### ЭЛЕКТРОННАЯ ПОЧТА:Dolgiholeg@rambler.ru
 
 
 <!--
